@@ -1,5 +1,0 @@
-tarea 2 23/05/22
-nombre: Paolo Illanes
-Red de prueba BSC testnet
-Contrato:
-- 0xf39552316fe745141735d96AdaEbc2cDC2Cd246e
