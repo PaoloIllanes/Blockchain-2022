@@ -1,0 +1,5 @@
+tarea 8 25/05/22
+nombre: Paolo Illanes
+Red de prueba goerli testnet
+Contrato:
+- 0x19b236248eB66573dd1F712353Ddb7EB1d412415(get Balance)
