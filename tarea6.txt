@@ -1,0 +1,5 @@
+tarea 6 25/05/22
+nombre: Paolo Illanes
+Red de prueba goerli testnet
+Contrato:
+- 0x8C9635BDBa79ae1D10e6F042269e6B7730A737FD(mapping (wallet, value))
