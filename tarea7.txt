@@ -1,0 +1,5 @@
+tarea 7 25/05/22
+nombre: Paolo Illanes
+Red de prueba goerli testnet
+Contrato:
+- 0x8dc7FB4AF82E40d0B2Dfbaf1C42aE1e36f5665aa(wallet transaction (payable method))
