@@ -1,0 +1,5 @@
+tarea 14 27/05/22
+nombre: Paolo Illanes
+Red de prueba goerli testnet
+Contrato:
+- 0x1eCaaAc97249B0F7f6D210A55411E7974B1eDD33(destroy contract)
