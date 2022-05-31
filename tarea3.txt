@@ -1,0 +1,5 @@
+tarea 3 31/05/22
+nombre: Paolo Illanes
+Red de prueba goerli testnet
+Contrato:
+- 0x3d0DA3a497d0c16809c242D2C38Ab987b5a5d970(events)
