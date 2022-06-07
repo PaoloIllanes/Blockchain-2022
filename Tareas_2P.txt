@@ -1,1 +1,2 @@
+repositorio:
 https://github.com/PaoloIllanes/CoinxCoin.git
