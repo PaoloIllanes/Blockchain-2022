@@ -1,1 +1,6 @@
+tarea 1 08-06-2022: test before each Lottery
+tarea 2 08-06-2022: Minimum ether to enter test Lottery
+tarea 3 08-06-2022: Pick winner test Lottery
+tarea 4 08-06-2022: Send money to winnner then reset lottery game
+repositorio:
 https://github.com/PaoloIllanes/CoinxCoin.git
