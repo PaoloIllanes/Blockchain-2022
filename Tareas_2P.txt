@@ -1,4 +1,5 @@
-[10-06-2022] Task 1 Configuration metamask with react
-[10-06-2022] task 2 Configuration project react with web3 js
+
+[13-06-2022] Task 1 Lottery getPlayers in React
+[13-06-2022] Task 2 Lottery getManager, getBalance
 repositorio:
 https://github.com/PaoloIllanes/CoinxCoin.git
