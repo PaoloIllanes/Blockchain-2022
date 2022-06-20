@@ -1,4 +1,4 @@
-[09-06-2022] Task1 unit testing pickWinner and reset game
-[09-06-2022] Task2 unit testing Evaluar() solo el profesor puede util…
+[10-06-2022] Task 1 Configuration metamask with react
+[10-06-2022] task 2 Configuration project react with web3 js
 repositorio:
 https://github.com/PaoloIllanes/CoinxCoin.git
