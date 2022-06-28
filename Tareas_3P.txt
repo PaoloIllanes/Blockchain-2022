@@ -1,0 +1,13 @@
+repositorio:
+https://github.com/PaoloIllanes/CoinxCoin.git
+[23-06-2022] task 1 deploy infura with truffle
+[23-06-2022] task 2 deploy hardhat with alchemy
+[23-06-2022] task 3 hardhat , alchemy , react
+[24-06-2022] task 1 deploy bsc test with truffle and hardhat
+[24-06-2022] task 2 configuration main net bsc in hardhat
+
+Deployed contracts:
+Goerli:0x78a159E7B2D05C85F64aF14DA10299Ca0C4B755F
+BscTestNet:0xF254B4884c8aF510F02C6963E0deAA7074dEBDbb
+Rinkeby:0xDF596d14187982b883E3d533573B366d1efF1F54
+
