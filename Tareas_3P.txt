@@ -1,7 +1,5 @@
 repositorio:
 https://github.com/PaoloIllanes/CoinxCoin.git
-[28-06-2022] task 2 interface IERC20
-[28-06-2022] task 1 first way to create token
-[28-06-2022] task 3 optional interface, init ERC20
-[28-06-2022] task 4 mandatory methods ERC20
-
+[29-06-2022] task 3 main contract
+[29-06-2022] task 1 internal functions in ERC20
+[29-06-2022] task 2 internal functions mint, burn
